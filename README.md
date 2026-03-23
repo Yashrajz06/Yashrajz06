@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,30:1d4ed8,68:f97316,100:fb7185&text=Yashraj%20Zagade&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20practical%20software%20for%20real-world%20use&descSize=17&descAlignY=58&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=E2E8F0&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%E2%80%A2+TypeScript+%E2%80%A2+Python;Turning+ideas+into+useful,+working+products)](https://github.com/Yashrajz06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=0F172A&center=true&vCenter=true&width=960&lines=Full+Stack+Developer;Java+%E2%80%A2+TypeScript+%E2%80%A2+Python;Turning+ideas+into+useful,+working+products)](https://github.com/Yashrajz06)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Yashrajz06&label=Profile%20Views&color=2563eb&style=for-the-badge)](https://github.com/Yashrajz06)
 [![GitHub followers](https://img.shields.io/github/followers/Yashrajz06?style=for-the-badge&color=f97316&labelColor=0f172a)](https://github.com/Yashrajz06?tab=followers)
